@@ -8,7 +8,7 @@ Produto: simulador do impacto de amortizações extraordinárias em financiament
 - Backlog do Produto (Jira) + DoR/DoD: `product-backlog.pdf`
 - Backlog da Sprint 1 (Jira): `sprint-backlog.pdf`
 - Wireframes: pasta `wireframes/`
-- Vídeo de apresentação: `apresentacao.mp4` (ou link: COLOQUE_O_LINK_AQUI)
+- Vídeo de apresentação: https://drive.google.com/file/d/1-H-d9iG6cUXaGHNnJ38hKctd0E9EpNs7/view?usp=sharing
 
 ## Contexto de negócio
 Usuário: mutuário PF com financiamento ativo. Cliente: fintech de educação financeira.
